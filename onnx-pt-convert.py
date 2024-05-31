@@ -54,8 +54,8 @@ def save_pytorch_model(pytorch_model, pytorch_model_path):
         print(f"Error saving PyTorch model: {e}")
 
 # Paths
-onnx_model_path = 'path_to_your_model.onnx'
-pytorch_model_path = 'path_to_save_model.pt'
+onnx_model_path = 'path_to_your_model.onnx' ## use \\ when doing the path 
+pytorch_model_path = 'path_to_save_model.pt' ## use \\ when doing the path 
 
 # Load, convert and save the model
 onnx_model = load_onnx_model(onnx_model_path)
