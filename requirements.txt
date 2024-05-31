@@ -1,0 +1,6 @@
+onnx==1.13.1
+onnx2pytorch==0.3.0
+torch==2.0.0
+
+
+pip install -r requirements.txt
