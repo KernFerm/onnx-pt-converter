@@ -8,7 +8,8 @@ This repository provides a script to convert an ONNX model to a PyTorch model. T
 ## Example 
 ![image](https://github.com/KernFerm/onnx-pt-converter/assets/152947339/8b7374ff-cbfa-499b-96a9-b44314421f4b)
 
-
+## Make Sure To `CD` the path of the file 
+----
 ## Table of Contents
 
 - [Requirements](#requirements)
@@ -98,4 +99,4 @@ def save_pytorch_model(pytorch_model, pytorch_model_path):
 
 - Replace `'path_to_your_model.onnx'` with the path to `your ONNX model` and `'path_to_save_model.pt'` with the desired `output path` for the PyTorch model.
 
-## Make Sure To `CD` the path of the file 
+
