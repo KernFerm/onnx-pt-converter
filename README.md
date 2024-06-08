@@ -8,6 +8,7 @@ This repository provides a script to convert an ONNX model to a PyTorch model. T
 ## Example 
 ![image](https://github.com/KernFerm/onnx-pt-converter/assets/152947339/8b7374ff-cbfa-499b-96a9-b44314421f4b)
 
+----
 ## Make Sure To `CD` the path of the file 
 ----
 ## Table of Contents
